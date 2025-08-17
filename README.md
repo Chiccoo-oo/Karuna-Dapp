@@ -15,6 +15,8 @@ Karuna addresses the opacity in charitable donations. By operating on the Stacks
 ## 2. Project Description
 
 Karuna allows users to donate to specific projects, with every transaction recorded on the immutable and public ledger of the Stacks Testnet. This ensures that the flow of funds is completely traceable and verifiable by anyone.
+<img width="842" height="907" alt="Screenshot 2025-08-17 142944" src="https://github.com/user-attachments/assets/32fc2ad7-3e3b-4377-9039-5d5c918f820a" />
+
 
 ---
 
