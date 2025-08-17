@@ -60,6 +60,7 @@ The vision for Karuna is to create a charity ecosystem where donors have complet
 The Karuna smart contract is deployed on the Stacks Testnet at the following address:
 
 ST23XZVZF6A2XSG4SJ05XT24ENQ88P3G1KCAWTP5K.karuna
+<img width="1904" height="896" alt="image" src="https://github.com/user-attachments/assets/d413bfbe-bcc5-4263-9513-88db60c989b9" />
 
 
 This address can be used to view the contract's code, functions, and transaction history.
