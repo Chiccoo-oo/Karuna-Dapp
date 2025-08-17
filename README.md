@@ -62,7 +62,7 @@ The Karuna smart contract is deployed on the Stacks Testnet at the following add
 ST23XZVZF6A2XSG4SJ05XT24ENQ88P3G1KCAWTP5K.karuna
 
 
-This address can be used to view the contract's code, functions, and transaction history on the [Stacks Explorer](https://explorer.stacks.co/).
+This address can be used to view the contract's code, functions, and transaction history.
 
 ---
 
